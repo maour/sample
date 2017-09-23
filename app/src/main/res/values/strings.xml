@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">CarSelector</string>
+
+    <!--Pages Title-->
+    <string name="ManufaturePageTitle">Select Manufacturer</string>
+    <string name="summaryPageTitle">Summary</string>
+
+    <!--Fields Label-->
+    <string name="summaryManufacturerLabel">Manufacturer</string>
+    <string name="summaryMainTypeLabel">Main Type</string>
+    <string name="summaryBuiltDateLabel">Built Date</string>
+
+    <string name="aboutme">Developed By Majid Ramezanpour</string>
+
+</resources>
